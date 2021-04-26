@@ -1,0 +1,7 @@
+통계 및 데이터 마이닝 알고리즘을 사용하여 결측값을 대체 할 수 있음을 배웠습니다.
+데이터 세트에서 객체의 분포를 나타내는 선 방정식을 얻을 수 있다면 어떤 방법을 사용 하시겠습니까? 이유를 설명해라.
+
+If you get the line equation, you can know the distribution
+of all data, including missing values.
+Probably, where there is a missing value, I think it will appear as an empty space.
+After identifying the location of the missing value, you can delete or fill in the data where the missing value exists.
